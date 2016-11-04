@@ -1,0 +1,42 @@
+body {
+  color: ghostwhite;
+  background-color: lightblue;
+  }
+h1 {
+  color: white;
+  text-align: center;
+  font-family: verdana;
+  font-size: 400%
+}
+h2 {
+  color: coral;
+  font-size: 300%;
+  text-align: right;
+  font-style: italic;
+}
+h3 {
+  font-family: fantasy;
+  color: limegreen;
+  text-align: center;
+  font-size: 200%
+}
+p {
+  font-weight: bold;
+  text-align: left;
+  font-size: 150%
+}
+ol {
+  font-style: oblique;
+  font-size: 120%;
+  color: blue;
+}
+ul {
+  font-style: oblique;
+  font-size: 120%;
+  color: red;
+}
+ul2 {
+  font-style: oblique;
+  color: green;
+  font-size: 120%
+}
